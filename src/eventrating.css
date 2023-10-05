@@ -1,0 +1,10 @@
+.rating-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .star-filled {
+    color: blue; /* Change this to the color you want when clicked */
+    cursor: pointer;
+  }
+  
